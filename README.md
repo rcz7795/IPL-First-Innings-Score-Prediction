@@ -1,7 +1,5 @@
 # IPL-First-Innings-Score-Prediction
 
-# Bangalore-Housing-Price-Prediction
-
 ![ML](https://img.shields.io/badge/ML-Regression-blue.svg) 
 
 ## Project Objective:
